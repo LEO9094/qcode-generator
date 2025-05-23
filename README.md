@@ -1,1 +1,2 @@
 Qrcodegenarator
+"# qcode-generator" 
