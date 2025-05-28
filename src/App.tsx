@@ -150,7 +150,7 @@ function App() {
           </main>
           
           <footer className="mt-8 text-center text-sm text-gray-500 dark:text-gray-400">
-            <p>© {new Date().getFullYear()} QR Code Generator. © 2024 LEO OFFICIAL. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} © 2024 LEO OFFICIAL. All rights reserved. </p>
           </footer>
         </div>
       </div>
